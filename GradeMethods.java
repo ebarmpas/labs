@@ -10,8 +10,13 @@ public class GradeMethods
 
     }
     public static boolean isFirstClass(int grade){
+
+    }
+    public static String findClassification(int grade){
+
+    }
+    public static double calculateFinalGrade(double assignmentAvg, int finalGrade){
     	
     }
-
 
 }

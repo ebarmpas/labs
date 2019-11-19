@@ -7,6 +7,15 @@ public class NumberMethods
     public static int  minimumInt(int a, int b){
 
     }
+    public static int  maximumInt(int a, int b){
+
+    }
+    public static double minimumDouble(double a, double b){
+
+    }
+    public static double MaximumDouble(double a, double b){
+
+    }
     public static int median(int a, int b, int c){
 
     }

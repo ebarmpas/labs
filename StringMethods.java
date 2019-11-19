@@ -4,13 +4,13 @@ public class StringMethods
 
     }
 
-    public static boolean(String str){
+    public static boolean appearsIn(String str, char c){
 
     }
-    public static int(String str){
+    public static int findOccurences(String str, char c){
 
     }
-    public static void(String message, int upTo){
+    public static void displayManyTimes(String message, int upTo){
 
     }
 }

@@ -31,7 +31,7 @@ public class NumberMethods
     public static double percentage(int a, int b){
 
     }
-    public static double(int a, int b){
+    public static double solveEquation(int a, int b){
 
     }
 }	

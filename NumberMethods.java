@@ -13,7 +13,7 @@ public class NumberMethods
     public static double average(int a, int b, int c, int d, int e){
 
     }
-    public static int isEven(int num){
+    public static boolean isEven(int num){
 
     }
     public static int sumEvenNumbersUpTo(int upTo){
@@ -23,6 +23,6 @@ public class NumberMethods
 
     }
     public static double(int a, int b){
-    	
+
     }
 }	

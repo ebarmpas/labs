@@ -91,7 +91,7 @@ public class NumberMethods
         if(a == 0){
             return 0;
         }
-        return -b/a;
+        return (double)-b/a;
     }
 }	
 

@@ -1,7 +1,7 @@
 public class StringMethods
 {
     public static void main(String[]args){
-        displayManyTimes("vaggelis",3);
+        
     }
 
     public static boolean appearsIn(String str, char c){
